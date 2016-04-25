@@ -14,6 +14,7 @@
 		125054B71CCE88C3001DEE7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 125054B51CCE88C3001DEE7B /* LaunchScreen.storyboard */; };
 		125054C21CCE88C3001DEE7B /* GitHub3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 125054C11CCE88C3001DEE7B /* GitHub3Tests.swift */; };
 		125054CD1CCE88C3001DEE7B /* GitHub3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 125054CC1CCE88C3001DEE7B /* GitHub3UITests.swift */; };
+		125054DB1CCE8AB5001DEE7B /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 125054DA1CCE8AB5001DEE7B /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		125054C81CCE88C3001DEE7B /* GitHub3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitHub3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		125054CC1CCE88C3001DEE7B /* GitHub3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub3UITests.swift; sourceTree = "<group>"; };
 		125054CE1CCE88C3001DEE7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		125054DA1CCE8AB5001DEE7B /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				125054B31CCE88C3001DEE7B /* Assets.xcassets */,
 				125054B51CCE88C3001DEE7B /* LaunchScreen.storyboard */,
 				125054B81CCE88C3001DEE7B /* Info.plist */,
+				125054DA1CCE8AB5001DEE7B /* File.swift */,
 			);
 			path = GitHub3;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				125054AF1CCE88C3001DEE7B /* ViewController.swift in Sources */,
+				125054DB1CCE8AB5001DEE7B /* File.swift in Sources */,
 				125054AD1CCE88C3001DEE7B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
